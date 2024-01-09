@@ -1,0 +1,2 @@
+#!/bin/bash
+file . mindepth | -type d | wc -l
